@@ -52,3 +52,9 @@ Excel/CSV Dataset for Data Storage and Processing</br>
 <img width="1328" height="745" alt="Screenshot 2026-10-11 172635" src="https://github.com/user-attachments/assets/3b131f94-f7c6-4c7c-90f5-31707337b5cb" />
 <img width="1328" height="752" alt="Screenshot 2026-10-11 172719" src="https://github.com/user-attachments/assets/f3b05a44-bc63-43fd-8227-5104cefa0631" />
 <img width="1331" height="747" alt="Screenshot 2026-10-11 172754" src="https://github.com/user-attachments/assets/7255106c-81d7-4344-bff5-ecaaed15cc20" />
+## Business Insights Generated
+Identifies top-performing cities contributing to revenue.</br>
+Tracks seasonal sales patterns and demand fluctuations.</br>
+Reveals customer payment preferences.</br>
+Highlights best-selling mobile models and brands.</br>
+Assists management in strategic sales planning and inventory decisions.</br>
