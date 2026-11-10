@@ -14,3 +14,4 @@ Total Sales: ₹769M</br>
 Total Quantity Sold: 19K Units</br>
 Total Transactions: 4K</br>
 Average Price: ₹40.11K</br>
+- <a href ="https://github.com/analytical31/Mobile-Sales-Analysis/blob/main/Mobile%20sales.pbix"> Mobile Sales Dashboard</a>
